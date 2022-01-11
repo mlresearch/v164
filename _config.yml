@@ -1,6 +1,11 @@
 ---
 booktitle: Proceedings of The 5th Conference on Robot Learning
 shortname: CoRL
+sections:
+- name: Contributed Papers
+  title: Contributed Papers
+- name: Blue Sky Papers
+  title: Blue Sky Papers
 volume: '164'
 year: '2021'
 start: 2021-11-08
