@@ -70,7 +70,7 @@ author:
   family: Fei-Fei
 date: 2022-01-11
 address:
-container-title: Proceedings of The 5th Conference on Robot Learning
+container-title: Proceedings of the 5th Conference on Robot Learning
 volume: '164'
 genre: inproceedings
 issued:

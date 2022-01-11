@@ -1,5 +1,5 @@
 ---
-booktitle: Proceedings of The 5th Conference on Robot Learning
+booktitle: Proceedings of the 5th Conference on Robot Learning
 shortname: CoRL
 sections:
 - name: Contributed Papers
@@ -29,7 +29,7 @@ editor:
   family: Neumann
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of The 5th Conference on Robot Learning
+  Proceedings of the 5th Conference on Robot Learning
     Held in London, UK on 08-11 November 2021
 
   Published as Volume 164 by the Proceedings of Machine Learning Research on 11 January 2022.
