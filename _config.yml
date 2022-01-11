@@ -1,0 +1,84 @@
+---
+booktitle: Proceedings of The 5th Conference on Robot Learning
+shortname: CoRL
+volume: '164'
+year: '2021'
+start: 2021-11-08
+end: 2021-11-11
+published: 2022-01-11
+conference_number: '5'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CoRL-2021
+month: 0
+cycles: false
+bibtex_editor: Faust, Aleksandra and Hsu, David and Neumann, Gerhard
+editor:
+- given: Aleksandra
+  family: Faust
+- given: David
+  family: Hsu
+- given: Gerhard
+  family: Neumann
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 5th Conference on Robot Learning
+    Held in London, UK on 08-11 November 2021
+
+  Published as Volume 164 by the Proceedings of Machine Learning Research on 11 January 2022.
+
+  Volume Edited by:
+    Aleksandra Faust
+    David Hsu
+    Gerhard Neumann
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: '08--11 Nov'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v164"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v164
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v164
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: https://www.robot-learning.org/
+  location: London, UK
+  dates:
+  - 2021-11-08
+  - 2021-11-09
+  - 2021-11-10
+  - 2021-11-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v164/corl21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v164/corl21.bib
